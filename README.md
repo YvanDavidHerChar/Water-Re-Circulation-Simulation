@@ -1,1 +1,2 @@
 # Water-Re-Circulation-Simulation
+Based on the rational method and some basic equipment acquirable for less than 200$USD, This MATLAB program proposes the simulation of water re-circulation for conventional agricultural systems of potatoes, the document is in Spanish, and will be accessible in some time. It allows to have an idea of the quantities of reused nutrients and water. It's very important to say that in this simulation, the water concentration is constant when in reality it should be a second degree differential equation, that only further research can define.
